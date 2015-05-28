@@ -1,10 +1,12 @@
-footer: @johnsonch :: Chris Johnson :: Writing For Love and Money
+`autoscale: true` 
+footer: @johnsonch :: Chris Johnson :: Writing For Love and Money :: http://spkr8.com/t/59371
 
 #Writing
 ##For Love and Money
 
 ---
 #About me
+
 ![fit right](http://www.johnsonch.com/images/me.jpg)
 
 * Chris Johnson
@@ -187,15 +189,7 @@ Experts really are rare 1-5% of the population
 ---
 #Define your thesis
 
-
-```
-Modern web development takes more than just HTML and CSS with a little JavaScript 
-mixed in. Clients want more responsive sites with faster interfaces that work on 
-multiple devices, and you need the latest tools and techniques to make that 
-happen. This book gives you more than 40 concise, tried-and-true solutions to 
-today’s web development problems, and introduces new workflows that will expand 
-your skillset.
-```
+Modern web development takes more than just HTML and CSS with a little JavaScript mixed in. Clients want more responsive sites with faster interfaces that work on multiple devices, and you need the latest tools and techniques to make that happen. This book gives you more than 40 concise, tried-and-true solutions to today’s web development problems, and introduces new workflows that will expand your skillset.
 
 ^ Once you know who your reader will be, what level to address them at and what
 you want them to learn. You can define your thesis.  This is what you should use 
@@ -271,31 +265,53 @@ To the reader you are the expert, use your experience not someone else's
 ---
 #How to succeed
 
+![full](images/GettyImages-165567554.jpg)
+
 ---
 #Write Everyday
 
+![full](images/GettyImages-499412949.jpg)
+
+^ Like anything practice does make perfect, but also make sure your practice is
+focused
+
 ---
 #750words.com
+
+![full](images/750words.png)
+
+^ A great way to practice writing everyday
 
 ---
 #Voice
 ##Setting the tone
 
+![full](images/GettyImages-115199536.jpg)
+
 ---
 #Be yourself
 ##Don’t be funny if you’re not
 
+![full](images/GettyImages-873312-001.jpg)
+
 ---
 #Beware of emulation
-##Don’t write like you think you should write or how you see others write
+
+Don’t write like you think you should write or how you see others write
+
+![full](images/GettyImages-475147931.jpg)
 
 ---
 #Say more with less
 
-* "Utilize" should be "Use"
-* "At this point in time" should be "Now"
-* "What x does is..." - just tell us already!
-* "really", "very", "quite", "severely" don’t emphasize things as much as you think they do. Look for them, remove them, and see if you like how it looks.
+- "Utilize" should be "Use"
+- "At this point in time" should be "Now"
+- "What x does is...",  just tell us already!
+- Remove words like: that, went, honestly, absolutly, very, really, amazing, always, never, literly, just, maybe, stuff, things and irregardless
+
+![full](images/GettyImages-468063826.jpg)
+
+^ http://www.businessinsider.com/words-to-eliminate-from-your-vocabulary-2015-5
 
 ---
 #Let’s get published
@@ -303,9 +319,13 @@ To the reader you are the expert, use your experience not someone else's
 ---
 #Finding a publisher vs Self Publishing
 
+![full](images/GettyImages-170095995.jpg)
+
 ---
 #Self Publishing
 ##Going Han Style...
+
+![full](images/516771-han-solo.jpg)
 
 ---
 #Can you ...
@@ -320,11 +340,22 @@ To the reader you are the expert, use your experience not someone else's
 #Of course you can
 ##But can you allocate enough hours to this?
 
+![full](images/GettyImages-173298653.jpg)
+
 ---
 #Benefits of Traditional Publishers
 
 ---
 #They have a brand
+
+![full](images/GettyImages-534574049.jpg)
+
+---
+
+![inline full](http://www.manning.com/obe2/obe2_cover150.jpg)
+![full](https://imagery.pragprog.com/products/442/wbdev2_xlargebeta.jpg)
+![inline full](https://www.apress.com/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/A/9/A9781484209875-3d.png)
+![inline full](http://covers.oreilly.com/images/9781565922259/cat.gif)
 
 ---
 #They have people to help you
