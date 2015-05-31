@@ -1,5 +1,6 @@
-`autoscale: true` 
-footer: @johnsonch :: Chris Johnson :: Writing For Love and Money :: http://spkr8.com/t/59371
+footer:@johnsonch :: Chris Johnson :: Writing For Love and Money :: http://spkr8.com/t/5937
+autoscale: true
+
 
 #Writing
 ##For Love and Money
@@ -22,6 +23,9 @@ footer: @johnsonch :: Chris Johnson :: Writing For Love and Money :: http://spkr
 > GettyImages is among the world’s leading creators and distributors of award-winning still imagery, video, music and multimedia products, as well as other forms of premium digital content, available through its trusted house of brands, including iStock© and Thinkstock©.
 
 ![inline](http://cyberpunklibrarian.com/wp-content/uploads/2014/03/getty_images_logo.jpg)
+
+---
+![](https://www.youtube.com/watch?v=4AEsCjalSBc)
 
 ---
 #Shameless Plug
@@ -64,6 +68,7 @@ footer: @johnsonch :: Chris Johnson :: Writing For Love and Money :: http://spkr
 ![full](images/GettyImages-157634155.jpg)
 
 ^ Sure these are out there, but are they organized and exhaustive?
+
 ^ If you want to work on one alot of this information will still apply
 
 ---
@@ -111,6 +116,7 @@ them
 ##From Novice to Expert
 
 ^ The Drefus brothers wanted to to advance artificial intelligence
+
 ^ They studied how humans learned and came up with the 5 stages one must go
 through from Novice to Expert
 
@@ -166,6 +172,10 @@ Experts really are rare 1-5% of the population
 #Competent make the best teachers
 
 ![full](images/GettyImages-543196963.jpg)
+
+^ Can develop conceptual models of the problem domain, troubleshoot effectively, 
+and implement their own novel solutions.
+
 
 ---
 #Most people stop progressing at advanced beginner
@@ -352,13 +362,17 @@ Don’t write like you think you should write or how you see others write
 
 ---
 
-![inline full](http://www.manning.com/obe2/obe2_cover150.jpg)
-![full](https://imagery.pragprog.com/products/442/wbdev2_xlargebeta.jpg)
-![inline full](https://www.apress.com/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/A/9/A9781484209875-3d.png)
-![inline full](http://covers.oreilly.com/images/9781565922259/cat.gif)
+![left](http://www.manning.com/obe2/obe2_cover150.jpg)
+![right](https://imagery.pragprog.com/products/442/wbdev2_xlargebeta.jpg)
+
+---
+![left fit](https://www.apress.com/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/A/9/A9781484209875-3d.png)
+![right fit](http://covers.oreilly.com/images/9781565922259/cat.gif)
 
 ---
 #They have people to help you
+
+![full right](images/GettyImages-200026501-001.jpg)
 
 * Developmental editors
 * Copy editors
@@ -372,9 +386,13 @@ Don’t write like you think you should write or how you see others write
 ---
 #They are also more experienced than you
 
+![full](images/GettyImages-460689423.jpg)
+
 ---
 #You get a lot of help...
 ##but it comes at a cost
+
+![full](images/GettyImages-464675085.jpg)
 
 ---
 #The Advance
@@ -384,10 +402,14 @@ Don’t write like you think you should write or how you see others write
 
 If your book doesn’t sell, you did a years’ worth of work for $10,000
 
+![full left](images/GettyImages-136492015.jpg)
+
 ---
 #Buybacks
 
 Publishers have to buy back your books from retailers if they don’t sell
+
+![full left](images/GettyImages-178377719.jpg)
 
 ---
 #Finding a publisher
@@ -400,6 +422,8 @@ Publishers have to buy back your books from retailers if they don’t sell
 ---
 #Development Editors
 
+![full](images/GettyImages-474194520.jpg)
+
 ---
 #A good DE can
 
@@ -411,17 +435,37 @@ Publishers have to buy back your books from retailers if they don’t sell
 ---
 #Copy Editor
 
+![full](images/GettyImages-184928153.jpg)
+
+^ Copy editors are worth the money, they specialize on the words and let you
+focus on getting your idea across
+
 ---
 #Tools
+
+![full](images/GettyImages-474795524.jpg)
 
 ---
 #Version Control
 
+Treat your words like code
+
+^ Git, SVN, CVS, etc.
+
 ---
 #Writing Tool
+* Sublime
+* Textmate
+* Vim
+
+![full](images/GettyImages-475446656.jpg)
 
 ---
 #But not Word!
+
+or any other graphical word processor
+
+![fit right](http://blog.bussedesign.com/wp-content/uploads/2014/02/no_word_map.png)
 
 ---
 #Markdown
@@ -433,6 +477,8 @@ Publishers have to buy back your books from retailers if they don’t sell
 ---
 #Docbook
 ##the revenge of XML
+
+![fit right](https://pbs.twimg.com/profile_images/52369740/front.png)
 
 ---
 #Docbook features
@@ -454,6 +500,8 @@ Publishers have to buy back your books from retailers if they don’t sell
 ---
 #Feedback
 
+![full](images/GettyImages-183748442.jpg)
+
 ---
 #Even if you use a publisher
 ##Have promotion plan
@@ -463,12 +511,19 @@ Publishers have to buy back your books from retailers if they don’t sell
 * Your blog
 * Your reviewers
 * Amazon reviews
+* Meetups
+
+![full right](images/GettyImages-112299678.jpg)
 
 ---
 #What if I can’t do it all?
 
+![full](images/GettyImages-166274915.jpg)
+
 ---
 #Get a co-author
+
+![full](images/GettyImages-185479869.jpg)
 
 ---
 #Beware though...
@@ -476,6 +531,8 @@ Publishers have to buy back your books from retailers if they don’t sell
 * You want a unified voice
 * You need to deal with your disagreements
 * You need to work as a partnership
+
+![full right](images/GettyImages-509282399.jpg)
 
 ---
 #Not writing a book?
@@ -493,5 +550,11 @@ most of these tips still apply
 * http://bit.ly/web-development-recipes-2nd-edition
 * @webdevrecipes
 * http://webdevelopmentrecipes.com
+
+---
+#Thank You
+
+* Please rate me at [http://spkr8.com/t/5937](http://spkr8.com/t/5937) I really appreciate feedback.
+* You can find this talk at [https://github.com/johnsonch/writing-for-love-and-money](https://github.com/johnsonch/writing-for-love-and-money)
 
 ---
