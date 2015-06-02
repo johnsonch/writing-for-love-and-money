@@ -7,3 +7,4 @@ file name.
   * [Meetup](http://www.meetup.com/madisonwebmeetup/events/222187046/)
   * [Speaker Rate Page](http://spkr8.com/t/59371)
   * [YouTube Recording](http://youtu.be/FNSY5joa4NE)
+  * [Specific version of slides](https://github.com/johnsonch/writing-for-love-and-money/tree/2015-06-01)
