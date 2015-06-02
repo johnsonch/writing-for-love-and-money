@@ -39,6 +39,13 @@ autoscale: true
 * http://webdevelopmentrecipes.com
 
 ---
+#Disclaimer/Rules
+
+* These are **my** experiences, your mileage may vary
+* I'm not here to argue, if you want to do that buy me a beer afterwards
+* Ask questions
+
+---
 #So you want to write?
 
 ![full](images/GettyImages-540290141.jpg)
