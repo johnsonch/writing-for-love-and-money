@@ -1,4 +1,4 @@
-footer:@johnsonch :: Chris Johnson :: Writing For Love and Money :: http://spkr8.com/t/59371
+footer:@johnsonch :: Chris Johnson :: Writing For Love and Money :: http://spkr8.com/t/61311
 autoscale: true
 
 
