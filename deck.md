@@ -561,7 +561,7 @@ most of these tips still apply
 ---
 #Thank You
 
-* Please rate me at [http://spkr8.com/t/5937](http://spkr8.com/t/5937) I really appreciate feedback.
+* Please rate me at [http://spkr8.com/t/61311](http://spkr8.com/t/61311) I really appreciate feedback.
 * You can find this talk at [https://github.com/johnsonch/writing-for-love-and-money](https://github.com/johnsonch/writing-for-love-and-money)
 
 ---
