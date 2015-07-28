@@ -411,6 +411,8 @@ If your book doesn’t sell, you did a years’ worth of work for $10,000
 
 ![full left](images/GettyImages-136492015.jpg)
 
+^ 20k @ 50% = 10k  with an advance you need to sell > 100k to get paid more
+
 ---
 #Buybacks
 
